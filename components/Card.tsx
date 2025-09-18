@@ -18,7 +18,6 @@ export default function Card({
   index,
   number,
   question,
-  points,
   color,
   active,
   answered,

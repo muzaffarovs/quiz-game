@@ -68,7 +68,6 @@ export default function GameBoard() {
       mounted = false;
       clearTimer();
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   function clearTimer() {
