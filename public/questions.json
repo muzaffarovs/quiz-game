@@ -1,31 +1,31 @@
 [
-  { "text": "Менеджмент сузи кайси лугатдан олинган?", "points": 1, "color": "green" },
-  { "text": "Менеджмент сузининг маъноси?", "points": 1, "color": "green" },
-  { "text": "Менеджмент Терминини биринчи маротаба ким куллаган?", "points": 1, "color": "green" },
+  { "text": "Yangi O‘zbekiston sharoitida madaniyat sohasining jamiyatdagi ahamiyati nimada?", "points": 1, "color": "green" },
+  { "text": "Madaniyat vazirligi tizimidagi respublika tashkilotlari qanday vazifalarni bajaradi?", "points": 1, "color": "green" },
+  { "text": "Respublika madaniyat tashkilotlariga qaysi muassasalar kiradi?", "points": 1, "color": "green" },
 
-  { "text": "Узбекистонда нечта вазирлик бор?", "points": 2, "color": "yellow" },
-  { "text": "Амниция сузининг маъноси?", "points": 2, "color": "yellow" },
-  { "text": "Маркетинг сузининг маъноси нима?", "points": 2, "color": "yellow" },
+  { "text": "Madaniyat sohasida davlat siyosatining asosiy maqsadi nimaga qaratilgan?", "points": 2, "color": "yellow" },
+  { "text": "Milliy madaniy merosni asrash va rivojlantirish nimani anglatadi?", "points": 2, "color": "yellow" },
+  { "text": "Moddiy va nomoddiy madaniy merosni asrashning ahamiyati nimada?", "points": 2, "color": "yellow" },
 
-  { "text": "Менеджмент неча турга булинади?", "points": 3, "color": "red" },
-  { "text": "Девон качон ва ким томонидан ташкил килинган?", "points": 3, "color": "red" },
-  { "text": "Менеджментда ёндашув турлари?", "points": 3, "color": "red" },
+  { "text": "Davlat tomonidan madaniyat va san’atni qo‘llab-quvvatlash qanday amalga oshiriladi?", "points": 3, "color": "red" },
+  { "text": "Ijodkor yoshlarni rag‘batlantirishning asosiy shakllari nimalardan iborat?", "points": 3, "color": "red" },
+  { "text": "Madaniyat muassasalarining moddiy-texnik bazasini mustahkamlash nima uchun zarur?", "points": 3, "color": "red" },
 
-  { "text": "Махалла еттилигини санаб утинг.", "points": 1, "color": "green" },
-  { "text": "Умумдавлат бошкарув органлари неча гурухга булинади?", "points": 1, "color": "green" },
-  { "text": "Маданият вазирлиги качон ташкил килинган?", "points": 1, "color": "green" },
+  { "text": "Aholining madaniy ehtiyojlarini qondirish qanday yo‘llar bilan amalga oshiriladi?", "points": 1, "color": "green" },
+  { "text": "Hududlarda madaniyat markazlarini rivojlantirishning ahamiyati nimada?", "points": 1, "color": "green" },
+  { "text": "Inklyuziv ta’lim tushunchasiga izoh bering?", "points": 1, "color": "green" },
 
-  { "text": "Маданият вазирлиги ташкил килиниши буйича фармон качон шакллантирилган?", "points": 2, "color": "yellow" },
-  { "text": "Истефога чиккан президент умрининг охиригача кайси лавозимда ишлайди?", "points": 2, "color": "yellow" },
-  { "text": "Ел юрт умиди жамгармаси кайси ташкилотга карайди?", "points": 2, "color": "yellow" },
+  { "text": "Milliy urf-odat va an’analarni targ‘ib qilish qanday amalga oshiriladi?", "points": 2, "color": "yellow" },
+  { "text": "Xalqaro madaniy aloqalarni rivojlantirish nima uchun muhim?", "points": 2, "color": "yellow" },
+  { "text": "Madaniy diplomatiya tushunchasi nimani anglatadi?", "points": 2, "color": "yellow" },
 
-  { "text": "ПА ни маслахатчилари 2023- йилгача нечта булган?", "points": 3, "color": "red" },
-  { "text": "ПА ни нечта маслахатчиси бор?", "points": 3, "color": "red" },
-  { "text": "ПА ни маслахатчилари нечанчи йилда купайтирилди?", "points": 3, "color": "red" },
+  { "text": "Madaniyat tashkilotlari O‘zbekistonning xalqaro imijini qanday mustahkamlaydi?", "points": 3, "color": "red" },
+  { "text": "Faoliyatni muvofiqlashtirish nima degani?", "points": 3, "color": "red" },
+  { "text": "Faoliyatni muvofiqlashtirish jarayoni qanday natijalarni ta’minlaydi?", "points": 3, "color": "red" },
 
-  { "text": "ПА ни маслахатчилари 2023-йилда нечанчи сонли ПФ га мувофик купайтирилди?", "points": 1, "color": "green" },
-  { "text": "Махалла кайси ташкилотга карайди?", "points": 1, "color": "green" },
-  { "text": "Маданият вазирлиги хузуридаги ташкилотлардан 3 тасини айтинг.", "points": 1, "color": "green" },
+  { "text": "Tashkilotlar faoliyatini muvofiqlashtirish nima uchun zarur?", "points": 1, "color": "green" },
+  { "text": "Faoliyatni boshqarish va muvofiqlashtirish zaruratining asosiy omillari qaysilar?", "points": 1, "color": "green" },
+  { "text": "Istirohat bog‘i tushunchasiga ta’rif bering", "points": 1, "color": "green" },
 
-  { "text": "Узбекистонда нечта махалла бор 2024- йил 1- январ холатига кура?", "points": 2, "color": "yellow" }
+  { "text": "Yashil zonalar nima va ular qanday vazifani bajaradi?", "points": 2, "color": "yellow" }
 ]
