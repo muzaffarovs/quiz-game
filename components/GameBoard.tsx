@@ -5,7 +5,7 @@ import Card from "./Card";
 
 type Q = { text: string; points: number; color: "green" | "yellow" | "red" };
 
-const makePlaceholders = (n = 30): Q[] =>
+const makePlaceholders = (n = 22): Q[] =>
   Array.from({ length: n }).map((_, i) => {
     const idx = i + 1;
     // spread difficulties roughly
@@ -37,7 +37,7 @@ export default function GameBoard() {
         if (!mounted) return;
         if (!Array.isArray(data) || data.length < 1) {
           // fallback to placeholders if file missing or empty
-          const ph = makePlaceholders(30);
+          const ph = makePlaceholders(22);
           setQuestions(ph);
           setAnswered(new Array(ph.length).fill(false));
           setFetchError(
@@ -46,8 +46,8 @@ export default function GameBoard() {
         } else {
           // ensure 30 items: pad with placeholders if less than 30
           let arr = data.slice();
-          if (arr.length < 30)
-            arr = arr.concat(makePlaceholders(30 - arr.length));
+          if (arr.length < 22)
+            arr = arr.concat(makePlaceholders(22 - arr.length));
           setQuestions(arr);
           setAnswered(new Array(arr.length).fill(false));
         }
@@ -55,7 +55,7 @@ export default function GameBoard() {
       .catch((err) => {
         console.error("Failed to load /questions.json:", err);
         // fallback to placeholders and show an error
-        const ph = makePlaceholders(30);
+        const ph = makePlaceholders(22);
         setQuestions(ph);
         setAnswered(new Array(ph.length).fill(false));
         setFetchError("Failed to load /questions.json — using placeholders.");
@@ -80,7 +80,7 @@ export default function GameBoard() {
 
   function startTimer() {
     clearTimer();
-    setTimeLeft(30);
+    setTimeLeft(22);
     timerRef.current = window.setInterval(() => {
       setTimeLeft((t) => {
         if (t === null) return null;
